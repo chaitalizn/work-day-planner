@@ -14,4 +14,7 @@ A simple application that allows user to save task for each hour of working day.
 [Checkout deployed my application here!](https://chaitalizn.github.io/work-day-planner/)
 
 ## Screen capture 
-![]()
+![](assets/images/one.PNG)
+
+## Contribution
+intractive features by Chaitali Patel
