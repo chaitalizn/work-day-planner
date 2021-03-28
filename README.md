@@ -11,7 +11,7 @@ A simple application that allows user to save task for each hour of working day.
 * JavaScript
 * Moment.js
 
-[Checkout deployed my application here!](https://chaitalizn.github.io/work-day-planner/)
+[Checkout my deployed application here!](https://chaitalizn.github.io/work-day-planner/)
 
 ## Screen capture 
 ![](assets/images/one.PNG)
